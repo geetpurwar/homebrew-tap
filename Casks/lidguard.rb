@@ -7,7 +7,7 @@ cask "lidguard" do
   desc "Keeps a Mac awake while coding agents are working"
   homepage "https://lidguard.pages.dev/"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "LidGuard.app"
 
