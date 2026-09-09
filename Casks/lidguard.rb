@@ -1,6 +1,6 @@
 cask "lidguard" do
-  version "1.1.1"
-  sha256 "86b4fa3dddeafd0bb9a3e164970b7f84735632ac9d0f8d6833eac44005185741"
+  version "1.2"
+  sha256 "8ec68020b4dec361e204657b971abd61bfe6c939ba477ff14f57d35b3df19795"
 
   url "https://github.com/geetpurwar/lidguard/releases/download/v#{version}/LidGuard-#{version}.zip"
   name "LidGuard"
